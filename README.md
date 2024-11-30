@@ -1,7 +1,7 @@
 <h1 align="center">嗨 👋，我是 Kangjie Lu</h1>
 <h3 align="center">来自中国的一名充满热情的研究员</h3>
 
-- 🌱 我目前正在学习 **机器学习**
+- 🌱 我目前正在学习 **AI/ML/NLP**
 
 - 📫 如何联系我 **lukangjie_cam@163.com**
 

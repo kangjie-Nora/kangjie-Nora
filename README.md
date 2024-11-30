@@ -1,15 +1,15 @@
-<h1 align="center">嗨 👋，我是 Kangjie Lu</h1>
-<h3 align="center">来自中国的一名充满热情的研究员</h3>
+<h1 align="center">Hi 👋，I am Kangjie Lu</h1>
+<h3 align="center">A passionate researcher from China</h3>
 
-- 🌱 我目前正在学习 **AI/ML/NLP**
+- 🌱 I am currently learning **AI/ML/NLP**
 
-- 📫 如何联系我 **lukangjie_cam@163.com**
+- 📫 Here is how you can contact me **lukangjie_cam@163.com**
 
-<h3 align="left">与我联系：</h3>
+<h3 align="left">Contact me：</h3>
 <p align="left">
 </p>
 
-<h3 align="left">语言和工具：</h3>
+<h3 align="left">Languages and Tools：</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>

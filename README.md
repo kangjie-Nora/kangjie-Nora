@@ -3,8 +3,6 @@
 
 - 🌱 I am currently learning **AI/ML/NLP**
 
-- 📫 Here is how you can contact me **lukangjie_cam@163.com**
-
 <h3 align="left">Contact me：</h3>
 <p align="left">
 </p>

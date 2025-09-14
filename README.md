@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋，I am Kangjie Lu</h1>
+<h1 align="center">Hi 👋，I am Nora</h1>
 <h3 align="center">A passionate researcher from China</h3>
 
 - 🌱 I am currently learning **AI/ML/NLP**
